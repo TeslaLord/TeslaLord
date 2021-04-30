@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=teslalord&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslalord&layout=compact&theme=radical" />
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=teslalord&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
+<img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslalord&layout=compact&theme=radical" />
