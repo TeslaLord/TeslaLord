@@ -18,8 +18,8 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=000000)
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=MySQL)
 ![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=C%2B%2B&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
 
 # Technologies:
@@ -27,11 +27,9 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=F05032)
 ![](https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=Linux&logoColor=000000)
 ![](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=Django&logoColor=000000)
-![](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=000000)
+![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/-jQuery-ffffff?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
-![](https://img.shields.io/badge/-Linkedin-ffffff?style=flat&logo=Linkedin&logoColor=000000)
 
 
 
