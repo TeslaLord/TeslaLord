@@ -7,7 +7,6 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 # Languages I use:
 
-<img src="https://img.shields.io/badge/-C-ffffff?style=flat&logo=C&logoColor=000000" height=30 ></img>
 ![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=C&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
