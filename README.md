@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Tharun 👋
 
 <!--
 **TeslaLord/TeslaLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Github Stats:</h2>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=teslalord&&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslalord&layout=compact&theme=radical">
