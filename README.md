@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h2>Github Stats:</h2>
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=teslalord&&show_icons=true&line_height=21&theme=radical"/>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslalord&hide_title=true&layout=compact&theme=radical"/>
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=teslalord&layout=compact&theme=radical"/>
 
