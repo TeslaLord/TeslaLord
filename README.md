@@ -5,13 +5,13 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 # Websites:
 
-<p>:globe_with_meridians: Portfolio: http://tharun.tech/ 
+### :globe_with_meridians: Portfolio: http://tharun.tech/
 
-![](https://img.shields.io/badge/-000000?style=flat&logo=Linkedin) LinkedIn: https://linkedin.com/in/ntharun/ 
+#### ![](https://img.shields.io/badge/-000000?style=flat&logo=Linkedin) LinkedIn: https://linkedin.com/in/ntharun/ 
 
-![](https://img.shields.io/badge/-000000?style=flat&logo=git&logoColor=F05032) Github: https://github.com/teslalord/
+#### ![](https://img.shields.io/badge/-000000?style=flat&logo=git&logoColor=F05032) Github: https://github.com/teslalord/
 
-</p> 
+
 
 # Languages I use:
 
