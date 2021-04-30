@@ -5,8 +5,8 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 # Websites:
 
-Portfolio: http://tharun.tech/
-LinkedIn: https://linkedin.com/in/ntharun/
+<h4>Portfolio: http://tharun.tech/ </h4>
+<h4>LinkedIn: https://linkedin.com/in/ntharun/ </h4>
 
 # Languages I use:
 
