@@ -1,9 +1,9 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Hi I'm Tharun!👋
+### Hi, I'm Tharun!👋
 I am an ECE graduate passionate in Machine learning, web-dev, IoT and Robotics
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
 
 <!--
 **TeslaLord/TeslaLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/teslalord)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ntharun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://tharun.tech/)  
 
 <h2>Github Stats:</h2>
 
