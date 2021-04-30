@@ -28,6 +28,7 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/-Linkedin-ffffff?style=flat&logo=Linkedin&logoColor=000000)
+![](https://aleen42.github.io/badges/src/photoshop.svg)
 
 
 # Github Stats:
