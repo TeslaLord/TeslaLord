@@ -5,6 +5,24 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 
 
+# Languages I use:
+
+<img src="https://img.shields.io/badge/-C-ffffff?style=flat&logo=C&logoColor=000000" height=30 ></img>
+![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=C&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+# Technologies I know:
+
+![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-ffffff?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-ffffff?style=flat&logo=Electron&logoColor=000000)
 
 
 # Github Stats:
