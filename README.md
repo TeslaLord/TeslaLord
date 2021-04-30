@@ -5,8 +5,10 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 # Websites:
 
-<h4>Portfolio: http://tharun.tech/ </h4>
-<h4>LinkedIn: https://linkedin.com/in/ntharun/ </h4>
+<h4>:globe_with_meridians:  Portfolio: http://tharun.tech/ </h4>
+
+![](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=Linkedin&logoColor=ffffff) https://linkedin.com/in/ntharun/ 
+
 
 # Languages I use:
 
@@ -24,7 +26,7 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 ![jQuery](https://img.shields.io/badge/-jQuery-ffffff?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/-Electron-ffffff?style=flat&logo=Electron&logoColor=000000)
+![Electron](https://img.shields.io/badge/-Linkedin-ffffff?style=flat&logo=Linkedin&logoColor=000000)
 
 
 # Github Stats:
