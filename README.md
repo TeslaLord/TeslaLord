@@ -5,7 +5,7 @@ I am an ECE graduate passionate in Web Development, Machine learning, IoT and Ro
 
 # Websites:
 
-<h4>:globe_with_meridians:  Portfolio: http://tharun.tech/ </h4>
+:globe_with_meridians:  Portfolio: http://tharun.tech/ 
 
 ![](https://img.shields.io/badge/-Linkedin-000000?style=flat&logo=Linkedin&logoColor=ffffff) https://linkedin.com/in/ntharun/ 
 
