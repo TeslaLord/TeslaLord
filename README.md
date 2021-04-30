@@ -1,7 +1,7 @@
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-### Hi, I'm Tharun!👋
-I am an ECE graduate passionate in Machine learning, web-dev, IoT and Robotics
+# Hi, I'm Tharun!👋
+I am an ECE graduate passionate in Web Development, Machine learning, IoT and Robotics. I enjoy working with React and Django, I believe the duo is perfect for full stack development. I enjoy problem solving, developing and debugging applications. My goal is to build products which provide good value to everyone.
 
 
 
